@@ -1,0 +1,15 @@
+How to run Online Financial Service (Transaction) Project
+
+1. Download the Code Folder
+
+2.Copy MVC Structure folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4.Create a database with name financial service
+
+6. Import financial_service.sql file.
+
+7.To run the project type: http://http://localhost/myProject/index1.php
+
+Login Details for user: Uesr Id-111222333, password-aaaaaa
